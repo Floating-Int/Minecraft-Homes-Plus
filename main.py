@@ -3,7 +3,6 @@ import keyboard
 import json
 
 # 41 = "|"
-# Cool
 
 
 def rquest_home(home="h", delay=0.07):
